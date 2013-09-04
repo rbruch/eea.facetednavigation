@@ -2,6 +2,7 @@
 *.pyc
 *.pyo
 *.mo
+*~
 dist
 .project
 .pydevproject

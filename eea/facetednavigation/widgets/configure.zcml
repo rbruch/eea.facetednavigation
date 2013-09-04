@@ -12,6 +12,7 @@
   <include package=".range" />
   <include package=".resultsfilter" />
   <include package=".resultsperpage" />
+  <include package=".select-nested" />
   <include package=".select" />
   <include package=".sorting" />
   <include package=".tagscloud" />

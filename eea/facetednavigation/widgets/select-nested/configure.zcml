@@ -6,17 +6,17 @@
   <faceted:widget factory=".widget.Widget" />
 
   <browser:resource
-    name="eea.facetednavigation.widgets.select.view.js"
+    name="eea.facetednavigation.widgets.select-nested.view.js"
     file="./view.js"
    />
 
   <browser:resource
-    name="eea.facetednavigation.widgets.select.edit.js"
+    name="eea.facetednavigation.widgets.select-nested.edit.js"
     file="./edit.js"
    />
 
   <browser:resource
-    name="eea.facetednavigation.widgets.select.view.css"
+    name="eea.facetednavigation.widgets.select-nested.view.css"
     file="./view.css"
    />
 
